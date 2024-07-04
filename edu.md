@@ -1,4 +1,4 @@
-### Education & Certificates
+## Education & Certificates
 Academy of Finance - Bachelor of Economics and Financial Resources (Completed in 2017)
 
 
