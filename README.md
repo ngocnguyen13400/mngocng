@@ -1,3 +1,7 @@
+## ngocnguyen13400/README.md
+(+84) 34 432 9594 - ngocnguyen13400@gmail.com
+
+
 ## Technical Skills
 
 - SQL: MySQL, PostgreSQL, Google BigQuery
